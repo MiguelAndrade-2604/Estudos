@@ -1,0 +1,38 @@
+body {
+    background: lightgrey url(arquivos_anna_bella/fundo.png);
+    font: 17px, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.4em;
+}
+
+#principal {
+    width: 900px;
+}
+
+#menu {
+    background: #c5c5b2;
+    padding: 17px;
+}
+
+#conteudo {
+    background: #e8e8d9;
+    padding: 13px;
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 7px;
+}
+
+#rodape {
+    text-align: center;
+}
+
+.img-campanha {
+    border: solid 10px #c3c3ae;
+}
